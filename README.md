@@ -1,5 +1,5 @@
 # Shampler
-Simple sample player in bash
+#Simple sample player in bash
 How to use it:
 	./shampler.sh instruments R/P file
 	Instruments - directory of sample files, named C6 to G7
